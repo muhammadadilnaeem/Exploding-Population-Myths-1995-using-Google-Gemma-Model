@@ -47,6 +47,6 @@ Feel free to explore the repository, contribute, or reach out if you have any qu
 
 ## **📄 License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muhammadadilnaeem/Exploding-Population-Myths-1995-using-Google-Gemma-Model/blob/main/LICENSE) file for details.
 
 ---
