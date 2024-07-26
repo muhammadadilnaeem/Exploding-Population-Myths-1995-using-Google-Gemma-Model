@@ -3,7 +3,7 @@
 
 # Exploding Population Myths 1995 using Google Gemma Model 🌍📈
 
-Welcome to the **Exploding Population Myths 1995** repository! This project leverages the Google Gemma model to analyze and debunk common population myths from 1995, providing valuable insights into historical population trends.
+Welcome to the **Exploding Population Myths 1995** repository! This project leverages the Google Gemma model to analyze and debunk common population myths from 1995 book, providing valuable insights into historical population trends.
 
 ## **🚀 How to Use**
 
